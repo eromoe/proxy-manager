@@ -1,7 +1,7 @@
 package manager
 
 import (
-	"code.google.com/p/go.net/proxy"
+	"github.com/hashicorp/go.net/proxy"
 	"fmt"
 	//"github.com/hailiang/socks"
 	ss "github.com/shadowsocks/shadowsocks-go/shadowsocks"
